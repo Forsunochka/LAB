@@ -1,0 +1,14 @@
+total 52
+917563 drwxr-xr-x  2 forsunochka forsunochka 4096 Oct 12 10:27 Desktop
+917567 drwxr-xr-x  3 forsunochka forsunochka 4096 Oct 26 09:42 Documents
+917564 drwxr-xr-x  4 forsunochka forsunochka 4096 Oct 31 17:39 Downloads
+920803 drwxrwxr-x  6 forsunochka forsunochka 4096 Oct 31 17:52 LAB
+917568 drwxr-xr-x  2 forsunochka forsunochka 4096 Oct 12 10:27 Music
+918524 drwxrwxr-x  3 forsunochka forsunochka 4096 Nov  6 16:52 otchet
+917569 drwxr-xr-x  2 forsunochka forsunochka 4096 Oct 17 17:13 Pictures
+918964 drwxrwxr-x  6 forsunochka forsunochka 4096 Oct 14 19:05 powerlevel10k
+917566 drwxr-xr-x  2 forsunochka forsunochka 4096 Oct 12 10:27 Public
+918148 drwxrwxr-x 10 forsunochka forsunochka 4096 Oct 31 17:38 structure
+917565 drwxr-xr-x  2 forsunochka forsunochka 4096 Oct 12 10:27 Templates
+917570 drwxr-xr-x  2 forsunochka forsunochka 4096 Oct 12 10:27 Videos
+921218 drwxrwxr-x  8 forsunochka forsunochka 4096 Oct 14 19:18 zsh-syntax-highlighting
